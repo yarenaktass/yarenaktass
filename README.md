@@ -1,5 +1,5 @@
 
-# 💫 About Me:<br>Hello! I am a computer engineering student and I have experience in various programming languages. 
+# 💫 About Me:<br>Hello! I am a jr computer engineer and I have experience in various programming languages. 
 
 
 ## 🌐 Socials:
